@@ -16,8 +16,8 @@ app.use(express.json());
 // =============================================================
 
 var data = {
-    tableSit: [];
-    tableWait: [];
+    tableSit: [],
+    tableWait: [],
 };
 
 var tableCount = 0;
